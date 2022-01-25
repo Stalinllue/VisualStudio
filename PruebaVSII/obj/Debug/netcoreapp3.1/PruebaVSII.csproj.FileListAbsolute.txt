@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\PruebaVSII\PruebaVSII\bin\Debug\netcoreapp3.1\PruebaVSII.exe
+C:\Users\hp\source\repos\PruebaVSII\PruebaVSII\bin\Debug\netcoreapp3.1\PruebaVSII.deps.json
+C:\Users\hp\source\repos\PruebaVSII\PruebaVSII\bin\Debug\netcoreapp3.1\PruebaVSII.runtimeconfig.json
+C:\Users\hp\source\repos\PruebaVSII\PruebaVSII\bin\Debug\netcoreapp3.1\PruebaVSII.runtimeconfig.dev.json
+C:\Users\hp\source\repos\PruebaVSII\PruebaVSII\bin\Debug\netcoreapp3.1\PruebaVSII.dll
+C:\Users\hp\source\repos\PruebaVSII\PruebaVSII\bin\Debug\netcoreapp3.1\PruebaVSII.pdb
+C:\Users\hp\source\repos\PruebaVSII\PruebaVSII\obj\Debug\netcoreapp3.1\PruebaVSII.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\PruebaVSII\PruebaVSII\obj\Debug\netcoreapp3.1\PruebaVSII.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\PruebaVSII\PruebaVSII\obj\Debug\netcoreapp3.1\PruebaVSII.AssemblyInfo.cs
+C:\Users\hp\source\repos\PruebaVSII\PruebaVSII\obj\Debug\netcoreapp3.1\PruebaVSII.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PruebaVSII\PruebaVSII\obj\Debug\netcoreapp3.1\PruebaVSII.dll
+C:\Users\hp\source\repos\PruebaVSII\PruebaVSII\obj\Debug\netcoreapp3.1\PruebaVSII.pdb
+C:\Users\hp\source\repos\PruebaVSII\PruebaVSII\obj\Debug\netcoreapp3.1\PruebaVSII.genruntimeconfig.cache
